@@ -1,8 +1,8 @@
 title:              The Business Copilot
 email:              paul.delport@outlook.com
-description:        Business automation insights with Power Platform and Azure AI
+description:        SAP Business automation with Power Platform and Azure AI
 author:             Paul Delport
-baseurl:            "" # leave blank because you're hosting at the root
+baseurl:            "" # hosting at the root
 url:                "https://Paul-Delport-001.github.io"
 
 # Social Profiles
